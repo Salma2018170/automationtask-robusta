@@ -1,7 +1,7 @@
 # QC Technical Task
 
 
-This repository contains the solutions for the QC Technical Task provided by Robusta. The task is divided into three main parts: Test Design, Bug Reporting, and Test Automation. 
+This repository contains the solutions for the QC Technical Task provided by Robusta. The task is divided into two main parts: Test Design, Bug Reporting, and Test Automation. 
 
 ## Overview
 
